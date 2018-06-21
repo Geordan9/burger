@@ -1,0 +1,12 @@
+body {
+    background-image: url("../img/burger.png");
+    background-size: 100%;
+}
+
+.row, form {
+    background-color: #808080B0
+}
+
+h1, h2{
+    background-color: gray;
+}
